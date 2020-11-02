@@ -1,7 +1,5 @@
 # dot
 
-## Branch
+## 3. Knowledge and Experience
 
-- 1-algorithmic-test
-- 2-backend-engineering-test
-- 3-knowledge-and-experience
+1. Tantangan terbesar saya adalah
